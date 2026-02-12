@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+  xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+  xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9
+        https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+  <!-- Main page -->
+  <url>
+    <loc>https://lonef8.com/</loc>
+    <lastmod>2026-02-12T23:45:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+    <image:image>
+      <image:loc>https://lonef8.com/images/lonef8-official-artist-landscape-photo.jpg</image:loc>
+      <image:caption>LONEF8 – producer and DJ - Official landscape profile photo</image:caption>
+      <image:title>LONEF8 – producer and DJ (official landscape profile photo)</image:title>
+    </image:image>
+  </url>
+  
+</urlset>

@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://lonef8.com/sitemap.xml
